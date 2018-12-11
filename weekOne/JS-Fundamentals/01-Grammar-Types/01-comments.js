@@ -3,3 +3,4 @@
 // 1) Communicate with other developers by writing in plain English
 // 2) Annotate certain sections of our code for our future selves
 
+// To comment things out you can just press Command + ?
