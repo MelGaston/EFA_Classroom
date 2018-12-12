@@ -48,7 +48,7 @@ console.log(long.length);
 let colors = ['blue','green','yellow','red','orange','purple'];
 console.log(colors.length);
 console.log(typeof colors);
-console.log(typeof colors.toString());
+console.log(colors.toString());
 
 for (i = 0; i <= 5; i++) {
     console.log("The number is " + i);
